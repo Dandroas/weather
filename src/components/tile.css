@@ -1,0 +1,8 @@
+.tile {
+    margin: 50px 50px;
+    height:100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+    align-items: center;
+}
